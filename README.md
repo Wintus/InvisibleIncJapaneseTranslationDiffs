@@ -1,5 +1,5 @@
 # InvisibleIncJapaneseTranslationDiffs
 Invisible, Inc. Japanese Translation Diffs by WinMarge
 
-#Link
+##Link
 * [Diff](http://wintus.github.io/InvisibleIncJapaneseTranslationDiffs/InvisibleIncJapaneseTranslationDiffs.htm)
